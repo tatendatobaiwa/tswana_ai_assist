@@ -1,0 +1,6 @@
+firebase-admin
+firebase-functions
+google-cloud-aiplatform # For Gemini
+google-cloud-speech     # For Speech-to-Text
+google-cloud-texttospeech # For Text-to-Speech
+# requests # If calling external APIs like Botlhale AI
